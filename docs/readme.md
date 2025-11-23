@@ -6,3 +6,8 @@ Mobile application for organizing events.
 
 - Create events
 - Manage participants
+
+## Setup Instructions
+
+1. Clone the repository.
+2. Open index.html in browser.
